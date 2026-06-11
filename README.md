@@ -124,14 +124,6 @@ Automated packaging and quality control system based on PIC16F877 microcontrolle
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malek6196&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Contact
 
 📧 malek.benslimen@esprit.tn
