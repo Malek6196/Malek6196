@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
@@ -17,7 +16,7 @@ Flutter • NestJS • AI • Cybersecurity • Mobile Development
 
 ---
 
-# 👩‍💻 Portfolio Identity
+# 👩‍💻 About Me
 
 🎓 2nd Year Software Engineering Student at ESPRIT
 
@@ -35,7 +34,7 @@ Flutter • NestJS • AI • Cybersecurity • Mobile Development
 
 ---
 
-# ⚡ Tech Galaxy
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,ts,nestjs,symfony,mysql,mongodb,docker,git,github,linux" />
@@ -77,7 +76,7 @@ Automated packaging and quality control system based on PIC16F877 microcontrolle
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack Details
 
 ### Languages
 
@@ -143,4 +142,3 @@ Automated packaging and quality control system based on PIC16F877 microcontrolle
 <p align="center">
 ⭐ Always learning, always building.
 </p>
-```
