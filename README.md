@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file.svg" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Malek Ben Slimane</h1>
@@ -7,7 +7,12 @@
 <h3 align="center">Software Engineering Student @ ESPRIT 🇹🇳</h3>
 
 <p align="center">
-Flutter • Mobile Development • NestJS • AI • Cloud Computing</p>
+Flutter • Mobile Development • NestJS • AI • Cloud Computing
+</p>
+
+<p align="center">
+  <img src="avatar.png" width="220">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Malek6196&color=0e75b6" alt="Profile Views" />
@@ -25,7 +30,7 @@ Flutter • Mobile Development • NestJS • AI • Cloud Computing</p>
 
 🤖 Interested in Artificial Intelligence and Intelligent Systems
 
-🔐 Exploring Cybersecurity and Cloud Computing
+☁️ Exploring Cloud Computing Technologies
 
 🐳 Docker & DevOps Enthusiast
 
@@ -99,7 +104,7 @@ Automated packaging and quality control system based on PIC16F877 microcontrolle
 
 ### Interests
 
-`Cybersecurity` `Cloud Computing` `Artificial Intelligence`
+`Artificial Intelligence` `Cloud Computing` `Mobile Development`
 
 ---
 
